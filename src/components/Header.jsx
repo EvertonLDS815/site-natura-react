@@ -1,6 +1,6 @@
 import logo from "../assets/logo.png";
 import { Container } from "../styles/styles";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 function Header() {
     const [search, setSearch] = useState(false);
