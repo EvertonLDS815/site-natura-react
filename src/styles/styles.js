@@ -1,4 +1,4 @@
-import styled from "Styled-components";
+import styled from "styled-components";
 import bgimage from "../assets/bg.avif";
 
 export const Container = styled.header`
